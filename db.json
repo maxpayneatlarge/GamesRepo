@@ -1,12 +1,36 @@
 {
     "games": [
-      {
-        "id": 1,
-        "title": "Space Invaders"
-      }, 
-      {
-          "id": 2,
-          "title": "Centipede"
-      }
+        {
+            "id": 1,
+            "title": "Space Invaders"
+        }, 
+        {
+            "id": 2,
+            "title": "Centipede"
+        },
+        {
+            "id": 3,
+            "title": "Gorf"
+        },
+        {
+            "id": 4,
+            "title": "Frogger"
+        },
+        {
+            "id": 5,
+            "title": "Donkey Kong"
+        },
+        {
+            "id": 6,
+            "title": "Pac-Man"
+        },
+        {
+            "id": 7,
+            "title": "Tempest"
+        },
+        {
+            "id": 8,
+            "title": "Paperboy"
+        }
     ]
   }
