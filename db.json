@@ -1,0 +1,12 @@
+{
+    "games": [
+      {
+        "id": 1,
+        "title": "Space Invaders"
+      }, 
+      {
+          "id": 2,
+          "title": "Centipede"
+      }
+    ]
+  }
