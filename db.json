@@ -1,26 +1,44 @@
 {
 	"games": [{
 		"id": 1,
-		"title": "Space Invaders"
+        "title": "Space Invaders",
+        "year": 1978,
+        "description": "Considered the game that revolutionized the video game industry. The first blockbuster video game, it established the shoot 'em up genre, and has influenced most shooter games since."
     },
     {
         "id": 2,
-        "title": "Centipede"
+        "title": "Centipede",
+        "year": 1981,
+        "description": "One of the first games to use trackball control, vertical monitor orientation."
     },
     {
         "id": 3,
-        "title": "Gorf"
+        "title": "Gorf",
+        "year": 1981,
+        "description": "Consisted of several levels, some of which were clones of other popular games. Featured synthesized speech."
     },
     {
         "id": 4,
-        "title": "Pac-Man"
+        "title": "Pac-Man",
+        "year": 1980,
+        "description": "One of the most popular and influential games, it had the first gaming mascot, established maze chase genre, opened gaming to female audiences, and introduced power-ups and cutscenes."
     },
     {
         "id": 5,
-        "title": "Donkey Kong"
+        "title": "Donkey Kong",
+        "year": 1981,
+        "description": "Laid foundations for platform game genre as well as visual storytelling in video games, and introduced Mario, the character who would become Nintendo's mascot."
     },
     {
         "id": 6,
-        "title": "Paperboy"
+        "title": "Paperboy",
+        "year": 1985,
+        "description": "Novel controls and high resolution display"
+    },
+    {
+        "id": 7,
+        "title": "1942",
+        "year": 1984,
+        "description": "Capcom's first hit game"
     }]
 }
