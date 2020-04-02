@@ -1,8 +1,6 @@
 {
-    "games": [
-      {
-        "id": 1,
-        "title": "Space Invaders"
-      }
-    ]
+	"games": [{
+		"id": 1,
+		"title": "Space Invaders"
+	}]
 }
